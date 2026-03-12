@@ -1,2 +1,2 @@
-# OWASP Fuzzer
-Fuzzer Project Diploma
+# not-main
+not a project
