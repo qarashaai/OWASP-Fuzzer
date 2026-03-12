@@ -1,2 +1,2 @@
-# demo
+# OWASP Fuzzer
 Fuzzer Project Diploma
